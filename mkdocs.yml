@@ -1,7 +1,7 @@
 site_name: ProjetPipelineDevOps
 
 site_url: 
-repo_url: https://github.com/oa-formation/mkdocs-publish
+repo_url: https://github.com/NgaLeLe/mkdocs_publish
 repo_name: mkdocs_projetPipelineDevOps
 
 theme:
